@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='bg-secondary rounded-t-2xl p-4 relative lg:px-32 lg:py-12'>
       <div className='bg-primary rounded-2xl px-4 py-4 text-white flex flex-col gap-y-4 lg:flex-row items-center w-full gap-x-8 lg:py-8 lg:mb-8 lg:px-12'>
-        <p className='text-lg lg:text-2xl lg:w-1/3 '>Register now so you don't miss our programs</p>
+        <p className='text-lg lg:text-2xl lg:w-1/3'>Register now so you dont miss our programs</p>
         <div className='flex flex-col bg-white rounded-2xl p-3 gap-y-4 mt-4 lg:flex-row w-full lg:w-2/3 lg:gap-x-4 lg:mt-0'>
           <input type='text' className='rounded-xl p-1 py-2 border-2 lg:w-2/3 text-black' placeholder='Enter your email'/>
           <button className='bg-primary rounded-xl p-2 lg:w-1/3'>Subscribe Now</button>
